@@ -3,7 +3,7 @@ Author: Gabriel Sánchez
 Status: Day 1 – Project Initialization  
 Goal: Build a modern, cloud-native distributed platform using GraphQL Federation, Kubernetes, Terraform, Kafka, and CI/CD workflows.
 
-## �� Overview
+## 🚀 Overview
 This repository contains the foundation of a **distributed GraphQL data platform**, designed to demonstrate skills in:
 - AWS
 - Kubernetes (EKS)
@@ -12,7 +12,7 @@ This repository contains the foundation of a **distributed GraphQL data platform
 - Kafka
 - CI/CD with GitHub Actions
 
-## �� Structure
+## 📁 Structure
 ```
 /docs
 /src
@@ -20,7 +20,7 @@ This repository contains the foundation of a **distributed GraphQL data platform
 README.md
 ```
 
-## �� Roadmap
+## 🧭 Roadmap
 The project evolves over 90 days across:
 1. Cloud + Infra
 2. CI/CD + Data Engineering
